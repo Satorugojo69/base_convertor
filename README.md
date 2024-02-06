@@ -1,2 +1,2 @@
-# python_practical
-projests and practicals
+# base convertor
+program will convert one base to another
